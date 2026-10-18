@@ -11,4 +11,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Balajee12/SQL_Queries/tree/master/0511-game-play-analysis-i) |
 | [0596-classes-with-at-least-5-students](https://github.com/Balajee12/SQL_Queries/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Balajee12/SQL_Queries/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Balajee12/SQL_Queries/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
