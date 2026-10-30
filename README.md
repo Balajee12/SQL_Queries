@@ -44,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-employees-whose-manager-left-the-company](https://github.com/Balajee12/SQL_Queries/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Balajee12/SQL_Queries/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/Balajee12/SQL_Queries/tree/master/3475-dna-pattern-recognition) |
+## String
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Balajee12/SQL_Queries/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Balajee12/SQL_Queries/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Balajee12/SQL_Queries/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Balajee12/SQL_Queries/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
