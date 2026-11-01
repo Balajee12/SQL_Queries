@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/Balajee12/SQL_Queries/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/Balajee12/SQL_Queries/tree/master/1873-calculate-special-bonus) |
 | [1934-confirmation-rate](https://github.com/Balajee12/SQL_Queries/tree/master/1934-confirmation-rate) |
+| [1965-employees-with-missing-information](https://github.com/Balajee12/SQL_Queries/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Balajee12/SQL_Queries/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Balajee12/SQL_Queries/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/Balajee12/SQL_Queries/tree/master/3475-dna-pattern-recognition) |
