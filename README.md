@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-find-students-who-improved](https://github.com/Balajee12/SQL_Queries/tree/master/3421-find-students-who-improved) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Balajee12/SQL_Queries/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/Balajee12/SQL_Queries/tree/master/3475-dna-pattern-recognition) |
+| [3564-seasonal-sales-analysis](https://github.com/Balajee12/SQL_Queries/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/Balajee12/SQL_Queries/tree/master/3570-find-books-with-no-available-copies) |
 ## String
 |  |
