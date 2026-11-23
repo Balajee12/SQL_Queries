@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3564-seasonal-sales-analysis](https://github.com/Balajee12/SQL_Queries/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/Balajee12/SQL_Queries/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/Balajee12/SQL_Queries/tree/master/3580-find-consistently-improving-employees) |
+| [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Balajee12/SQL_Queries/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 ## String
 |  |
 | ------- |
